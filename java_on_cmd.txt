@@ -1,0 +1,13 @@
+Microsoft Windows [Version 10.0.19041.746]
+(c) 2020 Microsoft Corporation. All rights reserved.
+
+D:\Projects\javaProject>javac Hello.java
+
+D:\Projects\javaProject>set classpath=C:\Program Files\Java\jre1.8.0_161\lib\rt.jar;
+
+D:\Projects\javaProject>java Hello
+hello....0
+hello....1
+hello....2
+hello....3
+hello....4
